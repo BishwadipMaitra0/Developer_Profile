@@ -1,0 +1,36 @@
+body{
+    font-family: 'Cinzel', serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+.BishwadipName{
+    color: rgb(255, 162, 0);
+}
+section
+{
+    display: flex;
+    
+
+}
+
+.half-weidth{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-weidth img {
+    width: 80%;
+    border-radius: 25cm;
+}
+.link-button{
+    text-decoration: none;
+    padding:  10px 40px;
+    background-color:  rgba(255, 183, 0, 0.728);
+    background-image: linear-gradient(rgba(255, 99, 71, 0.655),rgba(255, 71, 71, 0.392));
+    border-radius: 5px;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+}
