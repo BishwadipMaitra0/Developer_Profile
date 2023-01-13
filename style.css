@@ -1,6 +1,8 @@
 body{
     font-family: 'Cinzel', serif;
     margin: 0;
+
+    background-color: beige;
 }
 
 h1{
@@ -12,6 +14,8 @@ h1{
 section
 {
     display: flex;
+    margin-bottom: 150px;
+ 
     
 
 }
@@ -24,6 +28,7 @@ section
 .half-weidth img {
     width: 80%;
     border-radius: 25cm;
+    
 }
 .link-button{
     text-decoration: none;
